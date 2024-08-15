@@ -12,9 +12,6 @@ const Home = () => {
         <Navbar />
       </div>
       <Section />
-      <div>
-        <img src="/next.svg" alt="" />
-      </div>
       <Footer/>
     </>
   );
